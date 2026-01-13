@@ -1,0 +1,1 @@
+A PIC18F4620 based climate controller programmed in Embedded C. The system manages heating and cooling through ADC sensor integration and PWM-driven fan speed control. It features a robust state machine with hysteresis logic and a real-time 16x4 LCD interface for monitoring.
